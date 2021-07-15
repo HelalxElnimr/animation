@@ -1,16 +1,13 @@
-# animation
+# Animation
 
-A new Flutter application.
+ Animation by using flutter.
 
-## Getting Started
+## Packages we are using:
+- carousel_pro: ^1.0.0 [link](https://pub.dev/packages/carousel_pro/versions/1.0.0)
+- custom_bottom_navigation_bar: ^0.0.1 [link](https://pub.dev/packages/custom_bottom_navigation_bar)
 
-This project is a starting point for a Flutter application.
+Our Animation app contains a total of 5-screen, the welcome screen where a user 
 
-A few resources to get you started if this is your first Flutter project:
+### Animation App Final UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](/Animation.gif) 
