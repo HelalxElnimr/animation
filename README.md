@@ -9,5 +9,6 @@
 Our Animation app contains a total of 5-screen, the welcome screen where a user 
 
 ### Animation App Final UI
-
-![Preview](/Animation.gif) 
+<p float="left">
+<img src="/Animation.gif" width="250" />
+</p>
